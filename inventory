@@ -1,0 +1,6 @@
+[all]
+node001
+node002
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
